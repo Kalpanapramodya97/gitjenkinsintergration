@@ -6,4 +6,8 @@ myorder = "I want {} items of type {} for {} dollars"
 
 print(myorder.format(one,two,three))
 
+print ("how are you ")
+
+
+
 
